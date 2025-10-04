@@ -64,6 +64,8 @@ body,html{
     top: 80px;
     font-size: 60px;
     font-family: seb;
+    margin-top: 25px;
+    font-family: seb;
 }
 
 #center h4{
@@ -71,6 +73,35 @@ body,html{
     position: absolute;
     top: 18%;
     font-size: 35px;
-    margin-top: 15px;
+    margin-top: 50px;
+    font-family: seb;
     
+}
+
+#btn{
+     background-color: royalblue;
+     padding: 20px 15px;
+     border-radius: 40px;
+     border: none;
+     font-size: 25px;
+     position: absolute;
+     top: 35%;
+     right: 50%;
+     gap: 20px;
+     color: white;
+}
+
+#btn2{
+     background-color: rgb(11, 11, 11);
+     padding: 20px 15px;
+     border-radius: 40px;
+    
+     border: 1px solid blue;
+     font-size: 25px;
+     position: absolute;
+     top: 35%;
+     right:40%;
+     color: blue;
+     
+     
 }
